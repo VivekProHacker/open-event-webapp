@@ -1,0 +1,646 @@
+{
+  "count": 484, 
+  "page": 1, 
+  "sessions": [
+    {
+      "abstract": "Die deutsche Wirtschaft ist stark gepr\u00e4gt von den \u201eHidden Champions\u201c \u2013 den \u00fcberwiegend mittelst\u00e4ndischen, inhabergef\u00fchrten Unternehmen, die in den Tiefen der Provinz den technologischen Fortschritt antreiben. Dass ausgerechnet diese Unternehmen den Anschluss an die digitale Welt verpassen, scheint paradox. Mit Anekdoten aus dem Berateralltag wagt Marco Petracca einen Erkl\u00e4rversuch, der sich vor allem mit den kulturellen Differenzen zwischen Provinz und Netzwelt auseinandersetzt. ", 
+      "begin": "2015-05-07T11:00:00", 
+      "description": "Sobald es um die Wirtschaftsleistung Deutschlands geht, werden Politiker nicht m\u00fcde zu betonen, wie wichtig sie f\u00fcr uns sind \u2013 die sogenannten \u201eHidden Champions\u201c, die Mittelst\u00e4ndler, die Industrie- und Technologieunternehmen, die mit knapp 16 Millionen Besch\u00e4ftigten rund 2,1 Billionen Euro pro Jahr erwirtschaften. Und obwohl ihr Beitrag wesentlich f\u00fcr den Status Quo Deutschlands ist, werden sie in der \u00d6ffentlichkeit so gut wie gar nicht wahrgenommen. Es liegt nat\u00fcrlich daran, das der \u00fcberwiegende Teil ihrer Produkte und Leistungen keine direkte Relevanz f\u00fcr unser t\u00e4gliches Leben haben - schlie\u00dflich braucht niemand eine Rohrbiegemaschine oder eine Industriepumpe im Privathaushalt. Und es liegt auch daran, dass diese Unternehmen meist irgendwo in der tiefen Provinz sitzen. In einer Welt, deren Horizont an der n\u00e4chsten Autobahn endet und die sehr weit weg von dem ist, was wir im Netz als Arbeitswelt verstehen.\n\nDass diese teils geschichtstr\u00e4chtigen, oft inhabergef\u00fchrten, und deshalb manchmal leider auch sehr konservativen Unternehmen in der Netzwelt genauso wenig stattfinden wie in unserem unmittelbaren Alltag, ist ein Problem. Denn wenn heute jeder mit jedem online kommuniziert, Gesch\u00e4fte zunehmend nicht mehr im sauerl\u00e4ndischen Konferenzraum, sondern weltweit im Browser get\u00e4tigt werden, Arbeitspl\u00e4tze nach digitaler sexyness ausgew\u00e4hlt werden, das Netzwissen unseren Alltag und unsere Kultur pr\u00e4gt, stellt sich die Frage, wie diese Traditionsunternehmen in Zukunft bestehen sollen.\n\nAls langj\u00e4hriger Berater f\u00fcr Markenf\u00fchrung in Industrieunternehmen wagt Marco Petracca einen Erkl\u00e4rversuch. Er zeigt auf, dass das Problem nicht die Technik, sondern vielmehr der kulturell schwierige Mix aus Ingenieurs-, Provinz- und Mittelstandsdenken ist. Und dass die L\u00f6sung nicht nur darin bestehen kann, deutsche Kleinst\u00e4dte mit Breitbandinternet an die Netzwelt zu koppeln.\n", 
+      "end": "2015-05-07T11:30:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 2, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 458, 
+          "name": "Marco Petracca"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "\"Online? Bringt uns nichts!\" \u2013 Ein deprimierender Lagebericht aus den Chefb\u00fcros deutscher Industrieunternehmen.", 
+      "track": null
+    }, 
+    {
+      "abstract": "Menschen, Tiere, Sensationen: Wir teilen gerne Aufreger. Doch was, wenn Story und Absender falsch sind und wir uns zum Handlanger von Trollen, Werbern oder Propagandisten machen? ", 
+      "begin": "2015-05-05T16:30:00", 
+      "description": "Viele Emp\u00f6rungswellen und virale Hypes entstehen zuf\u00e4llig, doch die Mechanismen nach denen sie ablaufen, machen sie berechenbar. Nicht nur PR-Strategen nutzen das f\u00fcr graues Marketing und verdeckte Propaganda, sondern auch Spa\u00dfv\u00f6gel und \u201eFalse Flag\u201c-Trolle. Eine Woche nachdem wir alle das Video von einer Helden-Katze, die einen Jungen gegen einen Hund verteidigte, geteilt haben, stellt sich die Frage, ob es sich um einen Werbe-Stunt der Fracking-Lobby handelte. Kurz nachdem all jene, die Feministinnen schon immer bl\u00f6d fanden, sich bei Facebook und Twitter \u00fcber\u00a0menstruierende Aktivistinnen emp\u00f6rten, stellt sich heraus, dass das Social-Media-Ph\u00e4nomen unter dem Titel #Freebleeding ein getarnter 4chan-Hoax war. Wie funktionieren diese \u201eFalse Flag Campaigns\u201c und wie geht man ihnen nicht auf den Leim?\n\n\u00a0\n", 
+      "end": "2015-05-05T17:30:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 3, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 460, 
+          "name": "Deef Pirmasens"
+        }, 
+        {
+          "id": 461, 
+          "name": "Christian Schiffer"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Hoax-Kampagnen: Opium f\u00fcrs Emp\u00f6rungsvolk", 
+      "track": null
+    }, 
+    {
+      "abstract": "Die Indizien h\u00e4ufen sich, dass die globale Massen\u00fcberwachung durch ihre Geheimdiensten die au\u00dfenpolitischen Ziele westlicher Demokratien unterl\u00e4uft. Und dies nicht nur, wenn das Verborgene \u00f6ffentlich wird und sich Regierungen erkl\u00e4ren m\u00fcssen, sondern auch, wenn Staaten aufh\u00f6ren, entschlossen f\u00fcr Freiheit und Menschenrechte im Netz einzutreten. Anhand aktueller Bespiele wird das Ph\u00e4nomen erl\u00e4utert und L\u00f6sungsvorschl\u00e4ge pr\u00e4sentiert.", 
+      "begin": "2015-05-05T15:45:00", 
+      "description": "Als im Herbst 2013 bekannt wird, dass die NSA das private Handy von Kanzlerin Merkel und viele andere Anschl\u00fcsse deutscher Politiker auf einer streng geheimen \u00dcberwachungsliste f\u00fchrt, muss sich der amerikanische Pr\u00e4sident h\u00f6chst selbst \u00f6ffentlich rechtfertigen. Die deutsch-amerikanischen Beziehungen nehmen schweren Schaden, von dem sie sich bis heute nicht erholt haben. So bringen seine Geheimdienste Barack Obama in eine missliche Lage. Er kann entweder zugeben, davon gewusst zu haben, also mit den au\u00dfenpolitischen Beziehungen zum wichtigsten europ\u00e4ischen Alliierten fahrl\u00e4ssig gespielt zu haben (was er nicht zugibt) oder einr\u00e4umen, dass er seine Dienste nicht unter Kontrolle hatte (was er indirekt zugibt, denn er beendet die Praxis defacto).\n\nDaraus kann man zwei Lehren ziehen: erstens, Geheimdienste d\u00fcrfen alles, es muss allerdings geheim bleiben, denn bei Bekanntwerden, droht immenser Schaden f\u00fcr das Regierungshandeln. Zweitens, es braucht eine politische und demokratisch legitimierte, also parlamentarische, Kontrolle, die darauf abzielt, dass das Agieren der Geheimdienste nicht au\u00dfenpolitische und andere Ziele des Staates und der Regierung unterl\u00e4uft.\n\nIch habe meine begr\u00fcndeten Zweifel, dass die erste Lehre jemals in einer Demokratie funktionieren kann. Es wird immer irgendwann und irgendwie an das Licht der \u00d6ffentlichkeit gelangen, wenn Geheimdienste ihre Befugnisse \u00fcberschreiten oder contra-faktisch agieren. Edward Snowden steht nur an der Spitze einer langen Liste von Menschen, deren Verpflichtung ihrem Gewissen gegen\u00fcber der Geheimhaltung Grenzen aufzeigen.\n\nW\u00e4hrend sich in den vergangenen zwei Jahrzehnten das Aufgabenprofil der Geheimdienste stark in den Bereich signal intelligence (technische Aufkl\u00e4rung) verschoben hat, ist die Politik der westlichen Staaten unschl\u00fcssig geblieben, welche der beiden Optionen sie verfolgen soll. So haben sich die Geheimdienste Handlungsfreir\u00e4ume erarbeitet, die nicht nur im rechtlichen Graubereich liegen sondern auch klassischen au\u00dfenpolitischen Akteuren, der Diplomatie, Grenzen auferlegen. Nicht nur in den USA sondern auch in Deutschland sind die Au\u00dfenministerien in bestimmten Politikbereichen geschw\u00e4cht, ja sogar dazu gezwungen, eigen Position aufzugeben.\n\nDer Vortrag f\u00fchrt daf\u00fcr Beispiele an und erl\u00e4utert, wie sich westliche Staaten aus diesem Dilemma befreien k\u00f6nnen.\n", 
+      "end": "2015-05-05T16:15:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 4, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "intermediate", 
+        "label_en": "Intermediate"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 456, 
+          "name": "Marcel Dickow"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Strategische Aufkl\u00e4rung? \u2013 Wie Geheimdienste Au\u00dfenpolitik sabotieren", 
+      "track": null
+    }, 
+    {
+      "abstract": "An Internet of borders.  An Internet created and devised by The Black Operatives Collective, a covert marketing organisation that boasts clients such as the CIA, NASA, GCHQ, MOSAD, BND and the NSA,  as well as host of national government organisations and the European Union.  \r\n\r\nOn the eve of launching this new Internet with borders, Marcus John Henry Brown showcases the interrogation and security skills of RACHEL, the algorithm responsible for processing visas and monitoring the borders. He will be testing RACHEL by attempting to gain Illegal access to the United Internet of Great Britain.  ", 
+      "begin": "2015-05-07T14:45:00", 
+      "description": "May 2018. A post election Europe is coming to terms with the political\u00a0shift towards the right, the end of the Euro\u00a0and\u00a0the gradual closing of sovereign digital borders. Europe is coming to terms with\u00a0the warmth and comfort of a dystopian dream. There\u2019s safety and comfort in the knowledge that each country now has their own Internet \u00a0- an Internet with strictly controlled borders. It\u2019s an Internet where passports are issued. It\u2019s an Internet with border crossings that are owned by each national government but outsourced to, and run by commercial enterprises. It\u2019s an internet with national currencies. Applications must be made in order to cross the borders of the Internet of a foreign country. Applications and border crossings\u00a0are processed by an algorithm called RACHEL.\u00a0\n\nBuilding on his 2014 re:publica talk \"The Snowden Pitch\", Marcus will be outlining his usual dystopian vision of a near future to come.\u00a0\n", 
+      "end": "2015-05-07T15:15:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 5, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "advanced", 
+        "label_en": "Advanced"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 344, 
+          "name": "Marcus John Henry Brown"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Purpose of Entry", 
+      "track": null
+    }, 
+    {
+      "abstract": "Manchmal m\u00f6chte man zeichnen k\u00f6nnen. Bei der Konferenz, um sich ein Zitat des Redners besser zu merken. Im Workshop, um die Ergebnisse grafisch festzuhalten. Und immer, wenn ein Bild alles viel einfacher machen w\u00fcrde. Wie man mit nur wenigen Strichen Worte, Vortr\u00e4ge und Gedanken in kurzer Zeit visuell strukturieren und dokumentieren kann, lernt man im Sketchnote Workshop.\r\n", 
+      "begin": "2015-05-05T10:15:00", 
+      "description": "Nach dem gro\u00dfen Erfolg der letzten beiden Jahre gibt es auf der #rp15 nun die dritte Ausgabe des Sketchnote-Workshops. Wir vermitteln in k\u00fcrzester Zeit Grundlagen f\u00fcr eigene Zeichnungen und schaffen Bewusstsein f\u00fcr die St\u00e4rken von Visualisierung.\n\nPraktische Anleitungen und jede Menge Tipps aus der Praxis sind der ideale Startpunkt f\u00fcr alle re:publica-Besucher, um hinterher in Votr\u00e4gen und Sessions eigene Sketchnotes zu machen.\n\nHashtags sind #rp15 und #sketchnotes. Vorkenntnisse und zeichnerisches Talent sind nicht n\u00f6tig.\n\n\u00a0\n", 
+      "end": "2015-05-05T11:15:00", 
+      "format": {
+        "id": "workshop", 
+        "label_en": "Workshop"
+      }, 
+      "id": 6, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 151, 
+          "name": "Anna Lena Schiller"
+        }, 
+        {
+          "id": 1266, 
+          "name": "Ralf Appelt"
+        }, 
+        {
+          "id": 1265, 
+          "name": "Britta Ullrich"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Sketchnotes f\u00fcr Einsteiger", 
+      "track": null
+    }, 
+    {
+      "abstract": "I will explore how online media can completely transform Africa - especially because of its reach - create a sense of interconnectedness, and help us learn from each other. We need to tell our own stories and amplify our voices to create the social change we deeply crave. This is what we do at Brainstorm (www.brainstorm.co.ke) - currently telling Kenya's stories, but soon, stories from the whole continent. I will also share my vision for online media in Africa based on global/continental trends.", 
+      "begin": "2015-05-05T17:00:00", 
+      "description": "Once in a while when someone creates a great article/podcast/video online on an issue that moves them, we see people in the comments say \"That's great! But what are you doing about the issue in the real world?\" As if writing/podcasting/vlogging about it is not \"something\" enough. I'm here to tell you that it is.\n\nMy session will explore how online media can completely transform Africa\u00a0- especially because of its reach - create a sense of interconnectedness, and help us learn from each other. We need to tell our own stories and amplify our voices so as to create the social change we so deeply crave. This is what we do at Brainstorm (www.brainstorm.co.ke) - currently telling Kenya's stories, but soon to be telling stories from the whole continent. I will borrow heavily from my learnings since co-founding Brainstorm, as well as my vision for online media in Africa based on global and continental trends.\n\nSharing our stories does help shape our society, for it influences our thought process. If you can change how a man thinks, you have a great shot at changing how he acts. You can change how he acts for the better. We will also explore different articles, campaigns, videos and other online content that has been significant in the past year, and their effects - the questions they raised, their perceived strengths and flaws, and whether they created a lasting effect. Let us explore online media for social change in Africa, and worldwide.\n", 
+      "end": "2015-05-05T17:30:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 7, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 752, 
+          "name": "Brenda Wambui"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "The Revolution Will Be Written In HTML", 
+      "track": null
+    }, 
+    {
+      "abstract": "In der Wikipedia von einem Ende zum anderen zu gelangen ist m\u00f6glich und unterhaltsam.", 
+      "begin": "2015-05-06T18:00:00", 
+      "description": "Bei der Game-Show \"Six degrees of Wikipedia\" stellen die TeilnehmerInnen unter Beweis, wie viele N\u00e4chte sie in ihrem Leben bereits damit verbracht haben, sich vom 30-j\u00e4hrigen Krieg zu einer\u00a0 seltenen Kaktusart durchzuhangeln.\n\nZwei TeilnehmerInnen treten jeweils gegeneinander an. Ihnen wird ein Startbegriff vorgegeben, sowie ein Ziel. Nun m\u00fcssen sie sich so schnell wie m\u00f6glich, aber auch so kreativ wie m\u00f6glich durch hangeln, d\u00fcrfen dabei weder den Back-Button noch die Kategorie-Links verwenden.\n\nPunkte werden jeweils f\u00fcr die Geschwindigkeit, als auch f\u00fcr den kreativsten Weg vergeben, wobei das Publikum \u00fcber letzteren abstimmen darf. Das Publikum darf durch hineinrufen helfen oder verwirren, wird zudem durch die Abstimmung involviert. Das Zeit-Element sorgt f\u00fcr zus\u00e4tzliche Action.\n", 
+      "end": "2015-05-06T19:00:00", 
+      "format": {
+        "id": "action", 
+        "label_en": "Action"
+      }, 
+      "id": 10, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 69, 
+          "name": "\u2665 Sebastian Vollnhals"
+        }, 
+        {
+          "id": 1294, 
+          "name": "Julian Finn"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Six degrees of Wikipedia \u2665", 
+      "track": null
+    }, 
+    {
+      "abstract": "From birds to squirrels, ducks to cats, animals have been employed\u2014or accused of being so\u2014by governments around the world for espionage. Our talk will provide a brief history of spy animals.\r\n\r\n", 
+      "begin": "2015-05-06T17:15:00", 
+      "description": "In 2011, Saudi Arabian police \"arrested\" a vulture for spying for Israel. While that may seem unusual, the vulture in question is one of many animals throughout history accused of spying. From the CIA's \"Squab Squad\" to Ukraine's militarized dolphins, animals have throughout history played an integral part in military and espionage\u00a0missions. While some animals (such as dogs) make for excellent spies, others (like cats) are less adept. Our talk will take the audience through a history of spy animals.\n\n\u00a0\n\n\u00a0\n\n\u00a0\n", 
+      "end": "2015-05-06T17:45:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 11, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 361, 
+          "name": "Claudio Guarnieri"
+        }, 
+        {
+          "id": 29, 
+          "name": "Jillian York"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Spy Animals!", 
+      "track": null
+    }, 
+    {
+      "abstract": "A multidisciplinary research group at the Institute of Information Law (IViR) at the University of Amsterdam conducted a large-scale empirical social, economic and legal study of Alternative Compensation Systems (ACS), which, for a small monthly fee would legalize currently copyright infringing online practices. We have shown that digital consumers and pirates show strong support for such a non-market based way of paying for digital content, and they are willing to put their money where their mouth is.  The ACS idea enjoys considerable legitimacy, and would be welfare enhancing. \r\nBut it would also completely upset the status quo. What are the consequences?\r\n\r\n", 
+      "begin": "2015-05-07T08:30:00", 
+      "description": "Last year we set out to explore the legal, economic and social feasibility of an Alternative Compensation System (CCS), which, for a small monthly fee would legalize currently infringing online social practices such as private copying from illegal sources and online sharing of copyrighted works. We were interested in whether an ACS that would solve the problem of online copyright infringement would be legally possible, welfare increasing and socially acceptable. We found that the ACS idea in general is not only legally feasible, but can enhance social welfare. We also found that the CCS idea enjoys considerable social support among a representative sample of Dutch citizens.\n\nInterestingly enough, this support is the strongest among those who already use legal access alternatives the most: pirates and digital consumers. In effect, the more someone uses the current legal alternatives, the more he or she is inclined to support the ACS idea. We interpret the support for the ACS alternative as a discontent with the status quo, with the currently available legal alternatives.\n\nDiscontent consumers are joining the ever growing number of authors and performers who express their frustration with the royalties streaming services offer, and the level of control these new, but immensely powerful intermediaries have over the access to audiences. An ACS-based alternative would not necessarily increase the control of artists over distribution, but at least it would weaken the exclusive position of current digital intermediaries, while providing higher levels of revenue then the status quo. \u00a0All of these arguments seem to be in support of the CCS idea. Whether that is enough to initiate a change, is the main question of the talk.\n", 
+      "end": "2015-05-07T09:00:00", 
+      "format": {
+        "id": "discussion", 
+        "label_en": "Discussion"
+      }, 
+      "id": 12, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "intermediate", 
+        "label_en": "Intermediate"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 368, 
+          "name": "Bal\u00e1zs Bod\u00f3"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Kulturflatrate \u2013 its not just the pirates who want it", 
+      "track": null
+    }, 
+    {
+      "abstract": "Approximately 1/30 of all Facebook-Accounts already belong to deceased users and the numbers are rising. About 10.000 Facebook users die every day. And Facebook, of course, is not the only relevant platform. Death has long since arrived online \u2013 but how should we handle it? What happens with the digital legacy of a user? Does the digital death always follow the physical death?", 
+      "begin": "2015-05-06T17:15:00", 
+      "description": "Probably all of us have already been confronted with the topic of death on the Internet. After the death of a loved one we look up online what we are supposed to do in such a situation. Condolences are often expressed online (especially if the deceased is only distant acquaintance), and posted in social media. These are all interesting aspects of the digital death, which I\u2019ll consider in my talk. But what I find particularly interesting is a different dimension of the digital afterlife. A dimension that affects a growing proportion of society, but is only consciously considered by very few. An issue that affects everyone who uses online services and enters personal information there. What happens to this information after we die? Is the physical death necessarily followed by the digital death?\n\nI could say \u2013 \u201cI don\u2019t care what happens to my digital accounts after I die, I\u2019m dead anyway\u201d. But it\u2019s not that easy. What would happen if I would die tomorrow? As I\u2019m not married, my parents would be the ones, who would have to deal with it. And they are definitely not \u201cdigital natives\u201d. They wouldn\u2019t have a clue which services I used to use and how to deal with them after I die. They wouldn\u2019t know about my preferences either: would I have wanted everything to disappear? Would I prefer a \u201cmemorial profile\u201d (which is for example possible on Facebook)? Or maybe I would have just liked everything to stay as is? If I don\u2019t want my parents to have one more thing to deal with (as if the death of their child wasn\u2019t enough) \u2013 maybe I should take care of it while I\u2019m still alive?\n\nBut how? There are already different services trying to help users to manage their digital afterlife. But they struggle. Why?\n\nPeople just don\u2019t want to deal with their own death \u2013 especially while being young and healthy;\n\tIt\u2019s difficult to get user feedback (for example conduct user tests) in the context of death;\n\tIt\u2019s difficult to verify the death of the user \u2013 in a way which is both user-friendly and highly secure;\n\tThere are no universal standards and regulations: neither for reporting the death of the user nor for creating a last will for digital data.\n\u00a0\n\nIn my talk I will address these and other questions and constraints and provide answers and recommendations: based on research and the learning from the digital afterlife project I\u2019m currently working on.\n", 
+      "end": "2015-05-06T17:45:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 13, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 181, 
+          "name": "Agnieszka Walorska"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Digital Afterlife and Digital Legacy", 
+      "track": null
+    }, 
+    {
+      "abstract": "Perspektiven auf Webvideos zu politischen Themen.\r\n\r\nWas k\u00f6nnen politische Videos im Web bewirken? Wen erreichen sie? Haben sie eine Zukunft in der immer gr\u00f6\u00dfer werdenden Reichweite von YouTube und anderen Videoplattformen?", 
+      "begin": "2015-05-05T18:15:00", 
+      "description": "Ein kleiner R\u00fcckblick auf meine politischen Filme von \"DuBistTerrorist\" \u00fcber \"Telekom Netz der Zukunft\" bis zu meinem neuesten Kurzfilm \"Wir Lieben \u00dcberwachung\". Was sind die Vor- und Nachteile von animierten politisch-satirischen Kurzfilmen? Welche anderen Formen politischer Filme gibt es?\n\nIm Anschluss noch die Premiere meines neuesten Filmes. Der sich aus diversen Gr\u00fcnden von allen anderen unterscheidet. :)\n", 
+      "end": "2015-05-05T18:45:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 15, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 479, 
+          "name": "Alexander Lehmann"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "PRIMARK HAUL vs. Fracking Net Neutrality / Videos im Web zu politischen Themen", 
+      "track": null
+    }, 
+    {
+      "abstract": "Musik und Filme in Social Media-Kampagnen \u2013 ein rechtliches Minenfeld oder doch beherrschbar?! Einordnung der Rechtslage und L\u00f6sungsans\u00e4tze. ", 
+      "begin": "2015-05-07T11:45:00", 
+      "description": "Ob Unternehmen, Werbeagenturen oder Provider \u2013 alle setzen bei Social Media-Kampagnen auch auf Musik und Filme. Welche Rechte brauche ich hierf\u00fcr, wer gibt mir diese und worauf muss ich bei der Lizenzierung achten?\n\nAnhand einer Case Study werden die rechtlichen Notwendigkeiten beim Einsatz von Musik, Filmen und User Generated Content in einer tats\u00e4chlich ver\u00f6ffentlichten Kampagne erl\u00e4utert. Im Zuge der Erl\u00e4uterung der Rechtslage werden Haftungs- und Lizenzfragen, die Einbindung von User Genrated Content-Inhalten sowie die Mitwirkung einer bekannten Musikband in der Kampagne er\u00f6rtert.\n", 
+      "end": "2015-05-07T12:15:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 30, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "intermediate", 
+        "label_en": "Intermediate"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 515, 
+          "name": "Marco Erler"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Recht: Musik und Film in Social Media-Kampagnen \u2013 Eine Case Study", 
+      "track": null
+    }, 
+    {
+      "abstract": "Produktrezensionen beeinflussen nachweislich die Entscheidungen anderer K\u00e4uferinnen. \r\nIn Verkaufsportalen ist ein bunter Blumenstrau\u00df an misanthropen Ausbr\u00fcchen, epischen Beschreibungen und \u201cVersand war sehr schnell\u201d-Bl\u00fcten zu finden.\r\nDa Produkte einen erheblichen Teil unserer Identit\u00e4tsfindung ausmachen, wird es also h\u00f6chste Zeit, der Produktrezension mehr Aufmerksamkeit zu schenken: Frau Matthey und Frau Meyer lassen eine Auswahl der sch\u00f6nsten Rezensionen Revue passieren.", 
+      "begin": "2015-05-06T16:45:00", 
+      "description": "\u201cWenn das Produkt nicht in Ordnung w\u00e4re w\u00fcrde ich es reklamieren [...]\u201d (\u201cUwe 54\u201d, 21. Juli 2014)\n\nDer Keramikmesserblock, die Bluetooth-Stereoanlage oder der Katzenkalender 2015: Eine Kaufentscheidung will angesichts fragmentierter Lebensentw\u00fcrfe wohl bedacht sein - sie kann Orientierung geben oder sogar zur Entfremdung f\u00fchren. In einer Welt, die mit Werbung und PR durchsetzt ist, bietet die Produktrezension die M\u00f6glichkeit, ein Produkt auf seine tats\u00e4chlichen Leistungen, Inhalte und Eigenschaften zu reduzieren und zu bewerten. Hier kann Konsumentinnensouver\u00e4nit\u00e4t wiedergewonnen werden, besonders in Bereichen, in denen die Nachfrage der Kundinnen oft als nicht (mehr) ausschlaggebend f\u00fcr das Angebot wahrgenommen wird.\n\nPrinzipiell jede (mit Internetzugang) kann sich hier verwirklichen \u2013 noch nicht mal der tats\u00e4chliche Besitz oder Kauf des Produkts ist Voraussetzung f\u00fcr einen Beitrag. Jede Konsumentin hat so die M\u00f6glichkeit selber zur Produzentin zu werden. Die Produktrezension ist _die_ M\u00f6glichkeit, im Internet Content zu produzieren, ohne dauerhaft Teil von sozial\u00a0und/oder technisch komplexen Plattformen sein zu m\u00fcssen. (Online) konsumieren tun wir schlie\u00dflich fast alle.\n\nOb aber Textfragment aus einer zeitgen\u00f6ssischen Theaterperformance oder Rezension zum Schnellhefter \u2013 die Grenzen sind mittlerweile flie\u00dfend. Als \u201cAuftritt des Alltags\u201d schwankt die Rezension zwischen Authentizit\u00e4t und Selbstinszenierung. Wir begreifen daher in dieser Lesung das Internet als einen theatralen Raum und geben der Produktrezension, deren \u00c4sthetik bisher weitgehend unbeachtet blieb, eine B\u00fchne.\n\n\u00a0\n\n* Aus pragmatischen Gr\u00fcnden verwenden wir hier das generische Femininum. Menschen, die sich anderen Geschlechtsidentit\u00e4ten zuordnen, sind nat\u00fcrlich mitgemeint.\n", 
+      "end": "2015-05-06T17:45:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 17, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 487, 
+          "name": "Carolin Meyer"
+        }, 
+        {
+          "id": 1324, 
+          "name": "Josefine Matthey"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "\u201c7 von 83 Kundinnen fanden die folgende Rezension hilfreich\u201d \u2013 Eine Produktrezensionslesung", 
+      "track": null
+    }, 
+    {
+      "abstract": "Ever wondered who decides what is spam, or how Member States deal with it? In this talk you will travel along an interactive spam map of the European Union that will show you how powerful it is not to be categorized as spam in legislation, and what it means to your understanding and experience of the online environment.", 
+      "begin": "2015-05-06T08:30:00", 
+      "description": "The online environment disrupted old telecommunications legislation. It\u00a0introduced new challenges to the European Union's attempt to regulate and control this fast growing territory.\u00a0Spam is interesting\u00a0since it is not directly addressed, defined, categorized or discussed in EU legislation, it travels between different fields, mainly media, commerce and human rights. The elusiveness of spam in EU legislation shows how power is exercised by not defining it as a distinct category. Through an interactive map of spam in the European Union, you will see how spam travels across different laws, Directives, agreements\u00a0and organizations,\u00a0and how it manages to escape legislation.\u00a0This talk will examine what it means for your involvement in the online environment, and importantly - who benefits from it.\n", 
+      "end": "2015-05-06T09:00:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 19, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "intermediate", 
+        "label_en": "Intermediate"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 491, 
+          "name": "Elinor Carmi"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Spamming the EU \u2013 The power of not being categorized", 
+      "track": null
+    }, 
+    {
+      "abstract": "Mit dem Internet of Things erleben wir derzeit die zweite Welle der Digitalisierung \u2013 das Netz steckt nicht mehr nur hinter dem Bildschirm, sondern zunehmend in allt\u00e4glichen Dingen um uns herum. Anf\u00e4nglich war diese Bewegung von MakerInnen, Ausprobieren und auch europ\u00e4ischer Open-Source-Technologie gepr\u00e4gt. Doch jetzt steigen die grossen Konzerne und Verb\u00e4nde ein, und versuchen \u00fcber Industrie-Standards und Closed-Source L\u00f6sungen dem wilden Treiben ein Ende zu bereiten. Gibt es noch eine Chance f\u00fcr ein offenes Internet of Things?   ", 
+      "begin": "2015-05-07T14:15:00", 
+      "description": "Sp\u00e4testens seit Cisco mit dem \"Internet of Everything\" wirbt, und der Daimler-Chef auf der CES die Keynote h\u00e4lt d\u00fcrfte allen klar sein - das Internet of Things ist keine Spielwiese mehr, sondern wird zunehmend von den grossen Firmen als riesige Gesch\u00e4fts-Chance gesehen. Die Wachstumszahlen sind auch gigantisch, bereits jetzt kommunizieren in den meisten Netzen mehr Maschinen miteinander als Menschen, Autos, Flugzeugturbinen und Babywindeln sind mit dem Netz verbunden und produzieren Daten im Sekundentakt.\u00a0\n\nAnfangs war diese Bewegung stark von der Maker-Kultur gepr\u00e4gt und vor allem auch von zwei Hardware-Plattformen aus Europa - zum einen dem Raspberry Pi aus England, zum anderen der Arduino-Plattform aus Italien. Beide aus universit\u00e4ren Projekten entstanden, offen und zun\u00e4chst so \u00fcberraschend leistungsschwach, dass die grossen Player die Bewegung ignorierten. Doch das hat sich ge\u00e4ndert. Intel hat auf der Maker-Faire in Rom seine neue Plattform vorgestellt, Microsoft bietet Cloud-L\u00f6sungen f\u00fcr Maker an und vermutlich bald auch Hardware, Cisco will vorne dabei sein usw. - zus\u00e4tzlich laufen im Hintergrund intensive Bem\u00fchungen die Protokolle und Standards f\u00fcr das IoT festzulegen, amerikanische Firmen sind dabei f\u00fchrend, aus Europa spielt bestenfalls noch Siemens mit. Siemens!\n\nDie grosse Chance, dieses neue Netz der Dinge von unten zu gestalten, droht uns damit in den Fingern zu zerrinnen. Zugleich wird die allt\u00e4gliche Macht dieses Netzes ungleich gr\u00f6sser sein, denn das IoT wird unser Auto steuern, die Toilette, die Haust\u00fcre und mit unseren Gesundheitsdaten Versicherungen und Arbeitgeber gl\u00fccklich machen. Wenn wir es nicht noch verhindern.\u00a0\n", 
+      "end": "2015-05-07T14:45:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 20, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "intermediate", 
+        "label_en": "Intermediate"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 370, 
+          "name": "Stephan Noller"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Karl der K\u00e4fer wurde nicht gefragt \u2013 der kurze Fr\u00fchling des Internet of Things (oder: warum wir es schon wieder verkacken mit dem Netz)", 
+      "track": null
+    }, 
+    {
+      "abstract": "Chefkoch.de wird umgebaut - von einer Foren-Community aus den 1990er Jahren zu einer neuartigen Koch-Community, die on- und offline aktiv ist. Wir m\u00f6chten euch Einblicke in die n\u00e4chsten Schritte geben, und wir sind gespannt auf euer Feedback. Au\u00dferdem w\u00fcrden wir gerne ausloten, welche Ideen ihr f\u00fcr eine Zusammenarbeit seht. Und weil es um Food geht, schreibt uns bitte bis 1. Mai an @chefkoch_events, was ihr in der Session lieber wollt: Pornokuchen oder Gin? ;-)", 
+      "begin": "2015-05-06T14:15:00", 
+      "description": "Der \u201ePangalaktische Donnergurgler\u201c aus \u201ePer Anhalter durch die Galaxis\u201c war das erste Rezept bei Chefkoch.de. Ab 1998 konnten Nutzer Rezepte in die Datenbank eintragen, ein Kochforum wurde installiert, und daraus entwickelte sich organisch eine Community, die nun fast jeder deutschsprachige Internetnutzer kennt. Doch es brodelt in der Foodie-Welt: Wir erleben die digitale Disruption der Lebensmittelkette: vom Startup \u201eSoylent\u201c \u00fcber gr\u00fcne Smoothies vom Food-Truck hin \u00a0zum stylischen Molekyleis am Stiel aus Kreuzberg. Da stellt sich die Frage: Wer ver\u00f6ffentlicht als erstes ein Rezept f\u00fcr 3D-Food-Printer auf Chefkoch.de?\n\nDie klassische Forenkultur ist eine etablierte und wertvolle Form des Miteinanders im Internet. Doch Social Networks und die Blogosph\u00e4re haben die M\u00f6glichkeiten von Kollaboration und Kommunikation erweitert. Was hei\u00dft das aber f\u00fcr eine Plattform wie Chefkoch.de? Sollen wir das \"Facebook f\u00fcr Foodies\u201c werden oder das \"Instagram f\u00fcr Food-Hipster\u201c? Sollen unsere redaktionellen Texte und Videos k\u00fcnftig ausschlie\u00dflich \u201eUser-generated\u201c sein? Wie sollen wir mit Bloggern, Vloggern und Instagramern zusammenarbeiten? Was k\u00f6nnen Events und Camps f\u00fcr alle Beteiligten leisten?\n\nDie Ausgangssituation f\u00fcr eine Koch-Community der n\u00e4chsten Generation sind jedenfalls bestens: Chefkoch.de hat eine starke Nutzerbasis. Die Food-Szene ist voll aktiv und kreativ. Kochen ist seit Jahren ein Top-Trend... Wir geben Einblicke in unsere Aktivit\u00e4ten und Ideen \u2013 und wir sind offen f\u00fcr Anregungen, um ein Miteinander in der Zukunft zu gestalten.\n\n\u00a0\n\nPr\u00e4sentiert von Chefkoch.\n", 
+      "end": "2015-05-06T15:15:00", 
+      "format": {
+        "id": "discussion", 
+        "label_en": "Discussion"
+      }, 
+      "id": 21, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "intermediate", 
+        "label_en": "Intermediate"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 469, 
+          "name": "Karin Krubeck"
+        }, 
+        {
+          "id": 484, 
+          "name": "Andreas H. Bock"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Chefkoch.de ist Pornokuchen und Partizipation", 
+      "track": null
+    }, 
+    {
+      "abstract": "Lustigsein auf Twitter funktioniert nur vor dem Hintergrund eines geteilten (pop)kulturellen Hintergrunds, ungeschriebenen Gesetzen und bekannten Memes, kurz: Weil wir uns so \u00e4hnlich sind und uns darauf verlassen k\u00f6nnen, dass die Tweetleser genug Hintergrundwissen haben, um alles, was auf 140 Zeichen nicht gesagt werden kann, selber zu erg\u00e4nzen. ", 
+      "begin": "2015-05-05T18:15:00", 
+      "description": "Tweets sind vielseitig einsetzbar Vor allem k\u00f6nnen Tweets aber eins: Lustig sein.\n\nDabei ist es gar nicht selbstverst\u00e4ndlich, dass lustige Tweets funktionieren. Auf 140 Zeichen so am\u00fcsant zu sein, dass nicht nur man selber, sondern auch andere Leute dar\u00fcber lachen k\u00f6nnen, funktioniert oft nur, weil wir vor dem gleichen (pop)kulturellen Hintergrund sozialisiert wurden, in der viel beschworenen Filterblase einen ganzen Katalog von Memes und ungeschriebenen Gesetzen angeh\u00e4uft und generell viel mehr gemeinsam haben als wir vielleicht denken. Nur deswegen kann ich mich darauf verlassen, dass die Tweetleser das n\u00f6tige Hintergrundwissen haben, um alles nicht Gesagte selber erg\u00e4nzen zu k\u00f6nnen.\n\nIn dem Vortrag \u201cCeci n\u2019est pas un tweet\u201d versuche ich, an Beispielen immens lustiger (und weniger lustiger) Tweets klarzumachen, welche Voraussetzungen gegeben sein m\u00fcssen, damit Lustigsein in 140 Zeichen funktioniert.\n\nEventuell male ich Venn-Diagramme, um dem h\u00f6chst wissenschaftlichen Anspruch des Vortrags gerecht zu werden. Vor allem aber wird es viele lustige Tweets als Beispiele geben, so dass sich das Kommen auf jeden Fall lohnen wird.\n", 
+      "end": "2015-05-05T18:45:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 28, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 68, 
+          "name": "Anne Sch\u00fc\u00dfler"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Ceci n'est pas un tweet - Vom Lustigsein in 140 Zeichen", 
+      "track": null
+    }, 
+    {
+      "abstract": "\u00dcberall liest man: \u201cAlle sollten programmieren lernen\u201d. Aber warum? Nicht um Software-Entwicklerin zu werden, sondern um Abl\u00e4ufe besser zu verstehen. Mobile Themen und Apps werden immer wichtiger. Nicht nur IT-Abteilungen m\u00fcssen sich damit auseinandersetzen, auch Marketing, HR, Biz Dev oder Sales.\r\n\r\nIm Workshop Coding Bascis for Non-Devs bekommst du ein \u201eFeeling for Mobile\u201c \u2013 vom Design einer App \u00fcber die Programmierung bis hin zum Testing. Es geht um den allgemeinen Entwicklungsprozess, nicht um eine bestimmte Programmiersprache. Der Workshop ist hands-on, wir entwickeln gemeinsam Apps f\u00fcr Smartphones oder Tablets. Vorkenntnisse sind keine n\u00f6tig.", 
+      "begin": "2015-05-05T11:30:00", 
+      "description": "\u00dcberall liest man: \u201cAlle sollten programmieren lernen\u201d.\n\nAber warum? Nicht um Software-Entwicklerin zu werden, sondern um Abl\u00e4ufe besser zu verstehen. Mobile Themen und Apps werden immer wichtiger. Nicht nur IT-Abteilungen m\u00fcssen sich damit auseinandersetzen, auch Marketing, HR, Biz Dev oder Sales.\n\nIm Workshop Coding Bascis for\u00a0Non-Devs bekommst du ein \u201eFeeling for Mobile\u201c \u2013 vom Design einer App \u00fcber die Programmierung bis hin zum Testing. Es geht um den allgemeinen Entwicklungsprozess, nicht um eine bestimmte Programmiersprache. Der Workshop ist hands-on, wir entwickeln gemeinsam Apps f\u00fcr Smartphones oder Tablets. Vorkenntnisse sind keine n\u00f6tig.\n\nDer Workshop ist f\u00fcr alle, die auch ohne technischen Hintergrund mobile Entwicklungsprozesse und Apps besser verstehen wollen.\n\nProdukt Management\n\tSocial Media\n\tHR\n\tVertrieb\n\tBusiness Development\n\tDesign\n\tKommunikation\n\tMarketing\n\tFinance\nWas brauchst du?\n\n\n\tLaptop\n\t\n\t\n\tBrowser (Chrome oder Firefox)\n\t\n\t\n\tGmail Adresse (zur Anmeldung)\n\t\n\t\n\tFalls vorhanden: Android Smartphone oder Tablet (Wir haben auch einige Ger\u00e4te vor Ort.)\n\t\nWir freuen uns!\n\nDiana & Philipp\u00a0- von App Camps\n\n\u00a0\n\n\u00a0\n", 
+      "end": "2015-05-05T12:30:00", 
+      "format": {
+        "id": "workshop", 
+        "label_en": "Workshop"
+      }, 
+      "id": 23, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [], 
+      "subtitle": null, 
+      "title": "[CANCELLED] Coding Basics for Non-Devs", 
+      "track": null
+    }, 
+    {
+      "abstract": "Jeder hundertste Mensch in Europa lebt versteckt in der Illegalit\u00e4t \u2013 einer von hundert Menschen, den wir auf der Stra\u00dfe, beim B\u00e4cker, im Stadtpark treffen, hat kein offizielles Recht hier zu sein. Wir von CORRECT!V \u2013 dem ersten gemeinn\u00fctzigen Rechercheb\u00fcro in Deutschland \u2013 wollen verstehen, wie diese Menschen leben, wovon sie tr\u00e4umen. Daf\u00fcr haben wir \u00fcber viele, viele Wege und Kontakte einen mehrsprachigen Fragebogen im Internet verbreitet \u2013 und wollen f\u00fcr Euch die Geheimnisse dieser besonderen Recherche l\u00fcften. ", 
+      "begin": "2015-05-06T09:45:00", 
+      "description": "Wir wollen Migrantinnen und Migranten in der Illegalit\u00e4t sichtbar machen. Mindestens f\u00fcnf Millionen Einwanderer in die Europ\u00e4ische Union k\u00f6nnen ihre b\u00fcrgerlichen Rechte nicht umsetzen \u2013 so viele, wie im gesamten Ruhrgebiet oder im Gro\u00dfraum Berlin. Sie haben eigentlich keine Erlaubnis, sich bei uns aufzuhalten, sie d\u00fcrfen hier nicht arbeiten, k\u00f6nnen nicht zur Schule gehen und sind f\u00fcr die meisten von uns unsichtbar. Jeder hundertste Mensch, dem wir begegnen, f\u00fchrt ein verstecktes Leben. Sie wohnen in einem Zimmer des Mietshauses nebenan, sie bereiten schwarz in Restaurants unser Essen zu, sie reinigen f\u00fcr einen Hungerlohn unsere B\u00fcros und sie ziehen auf Baustellen Mauern hoch.\n\nAber wir kennen sie nicht. Wer sind sie wirklich? Wie leben und wohnen sie? Was sind ihre Tr\u00e4ume und Visionen? Und wer sind ihre Nutznie\u00dfer? Welche Betriebe k\u00f6nnten ohne ihre illegale Besch\u00e4ftigung gar nicht \u00fcberleben? Wo sehen sich diese Menschen in f\u00fcnf Jahren? Wir verleihen den Menschen in der Illegalit\u00e4t eine Stimme.\n\nDie Unsichtbaren bauen auf einem Projekt auf, dass wir in den vergangenen Monaten mit freien Journalisten aus Portugal, Spanien, Italien und Griechenland umgesetzt haben. Das Projekt \"GenerationE\". Hier haben junge Migranten aus S\u00fcdeuropa ihre Erfahrungen in einem Fragebogen geteilt und wir haben ihre Geschichten unter generatione.correctiv.org erz\u00e4hlt. Die Recherche zu den Unsichtbaren ist die n\u00e4chste Stufe. Jetzt wenden wir uns denen zu, die bislang \u00fcberhaupt keine Lobby haben.\n\nWir wollen Euch auf der re:publica zeigen, wie wir in monatelanger Arbeit mit diesen Menschen in Kontakt gekommen sind, und wie wir gerade die gr\u00f6\u00dfte europ\u00e4ische Datenbank \u00fcber Menschen in der Illegalit\u00e4t aufbauen. Denn bislang fehlt selbst der Europ\u00e4ischen Union jegliche Idee dar\u00fcber, wie der Alltag dieser vielen Menschen aussieht. Wir l\u00fcften das Geheimnis.\n", 
+      "end": "2015-05-06T10:15:00", 
+      "format": {
+        "id": "talk", 
+        "label_en": "Talk"
+      }, 
+      "id": 24, 
+      "lang": {
+        "id": "de", 
+        "label_de": "German", 
+        "label_en": "German"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 1038, 
+          "name": "Florian Bickmeyer"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Die Unsichtbaren \u2013 Migration in Europa", 
+      "track": null
+    }, 
+    {
+      "abstract": "The European crisis has brought new challenges and dangers for critical journalism. Cuts to budgets not only make the day to day more difficult but leave institutions weakened to the advances of corruption, those in power jockeying to turn the press into personal PR machines. Coupled with recent revelations about systematic surveillance of investigative journalists, there is no doubt a pressing need for innovation and communication between fellow journalists. We\u2019ll be exploring the recent boom in cross border journalistic initiatives and asking what role collaborative journalism has to play in Europe\u2019s new Digital Society. ", 
+      "begin": "2015-05-05T15:15:00", 
+      "description": "Journalists are reaching across borders to collaborate and communicate about issues from the mundane to massive breaking stories. Are the collaborative stories produced by, and the support fostered within these networks central to creating Europe\u2019s new \u201aDigital Society\u2018?\n\nAt last year\u2019s re:publica, we launched our own non-profit journalism platform: hostwriter.org. Hostwriter is a global platform designed to encourage and facilitate collaboration between journalists, bloggers and documentary filmmakers. Members become part of a network that enables them to easily find and contact fellow journalists for local advice, offers of co-authorship or even accommodation (\u201ecouchsurfing for journalists\u201c).\n\nOn our first birthday, we\u2019d like to return to #RP15 to hold a panel discussion and critical debate with other leading figures from the collaborative movement that explores journalism\u2019s role within \u201aEurope\u2019s Digital Society\u2018.\u00a0 We\u2019ll ask whether the challenges facing Europe can in fact catalyse more meaningful collaboration between journalists. \u00a0Can the work of cross border journalism break longstanding stereotypes? Can they not only sidestep national corruptions and limitations but shine light on to them?\u00a0 Ultimately, can journalistic cross border collaboration create a more open society that transcends the digital?\n", 
+      "end": "2015-05-05T16:15:00", 
+      "format": {
+        "id": "discussion", 
+        "label_en": "Discussion"
+      }, 
+      "id": 25, 
+      "lang": {
+        "id": "en", 
+        "label_de": "English", 
+        "label_en": "English"
+      }, 
+      "level": {
+        "id": "beginner", 
+        "label_en": "Beginner"
+      }, 
+      "microlocation": null, 
+      "speakers": [
+        {
+          "id": 1020, 
+          "name": "Silvia Giannelli"
+        }, 
+        {
+          "id": 325, 
+          "name": "Tamara Anthony"
+        }, 
+        {
+          "id": 861, 
+          "name": "Elina Makri"
+        }, 
+        {
+          "id": 1290, 
+          "name": "Tabea Grzeszyk"
+        }, 
+        {
+          "id": 855, 
+          "name": "Brigitte Alfter"
+        }
+      ], 
+      "subtitle": null, 
+      "title": "Finding Europe: Collaborative Journalism in Times of Crisis", 
+      "track": null
+    }
+  ], 
+  "total_pages": 25
+}
